@@ -1,4 +1,4 @@
 node {
   stage 'Run JMeter Test'
-  'C:\\Shoubhik_Softwares\\apache-jmeter-5.1\\bin\\jmeter.bat -n -t C:\\Shoubhik_Softwares\\apache-jmeter-5.1\\Scripts\\Customer_Master_Acc_marketing_WO_CSV.jmx'
+  C:\\Shoubhik_Softwares\\apache-jmeter-5.1\\bin\\jmeter.bat -n -t C:\\Shoubhik_Softwares\\apache-jmeter-5.1\\Scripts\\Customer_Master_Acc_marketing_WO_CSV.jmx
 }
